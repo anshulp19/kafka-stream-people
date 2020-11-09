@@ -4,7 +4,7 @@
   "description": "\"backend service for a system to show real-time graph on HTML Page, for number of persons in front of webcam (ip-cam) using Kafka Streams.\"",
   "main": "index.js",
   "scripts": {
-    "consumer": "node ./src/consumer.js",
+    "server": "node ./src/server.js",
     "producer": "node ./src/producer.js"
   },
   "repository": {
