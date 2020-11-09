@@ -1,0 +1,26 @@
+[
+    {
+      "cameraID": "001",
+      "persons": 4,
+      "factoryID": "001",
+      "eventTimestamp": "2020-03-02 02:09:00"
+    },
+    {
+        "cameraID": "002",
+        "persons": 3,
+        "factoryID": "001",
+        "eventTimestamp": "2020-03-02 02:09:00"
+    },
+    {
+        "cameraID": "001",
+        "persons": 1,
+        "factoryID": "002",
+        "eventTimestamp": "2020-03-02 02:09:00"
+    },
+    {
+        "cameraID": "002",
+        "persons": 6,
+        "factoryID": "002",
+        "eventTimestamp": "2020-03-02 02:09:00"
+    }
+  ]
